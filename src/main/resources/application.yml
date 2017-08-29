@@ -1,0 +1,12 @@
+decimalFormat:
+  taxVisitor: #,###.##
+
+tax:
+  us:
+    bond: 0.18
+    stock: 0.36
+    investment: 0.0
+  canada:
+    bond: 0.10
+    stock: 0.12
+    investment: 0.2
